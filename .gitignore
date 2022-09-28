@@ -9,8 +9,7 @@ lerna-debug.log*
 
 # project files
 node_modules
-dist
-dist-ssr
+build
 *.local
 .eslintcache
 
